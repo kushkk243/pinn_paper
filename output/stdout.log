@@ -1,0 +1,21 @@
+
+Collecting tasks from: tasks.py
+============================== Running: [96mspare_bin[0m ==============================
+{'xstart': None, 'xend': None, 'ystart': None, 'yend': None, 'link1': None, 'link2': None, 'theta1': None, 'theta2': None}
+[96mspare_bin[0m status: [91mFAIL
+[0m[91m
+float() argument must be a string or a real number, not 'NoneType'
+[0m====================== Full Traceback (running [96mspare_bin[0m) ======================
+[91mTraceback (most recent call last):
+  File "/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_commands.py", line 453, in run
+    result = task.run(**kwargs)
+  File "/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_task.py", line 57, in run
+    return self.method(**kwargs)
+  File "/home/kush/Documents/PINN_PRJCT/tasks.py", line 8, in spare_bin
+    model_train()
+  File "/home/kush/Documents/PINN_PRJCT/tasks.py", line 26, in model_train
+    model = CreateModel(float(result.xstart),float(result.ystart),float(result.xend),float(result.yend),l1=int(result.link1),l2=int(result.link2),theta1=int(result.theta1),theta2=int(result.theta2))
+TypeError: float() argument must be a string or a real number, not 'NoneType'
+
+[0m================================================================================
+Robocorp Log (html): /home/kush/Documents/PINN_PRJCT/output/log.html

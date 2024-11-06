@@ -1,0 +1,531 @@
+V 0.0.4
+T 2024-09-19T17:45:53.068+00:00
+ID 1|0406cc94-76af-11ef-a38d-5414f3b39ad4
+I "sys.platform=linux"
+I "python=3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0]"
+M a:"tasks.py"
+SR a|0.002
+M c:"Collect tasks"
+M d:"setup"
+M e:""
+P b:c|d|e|e|0
+ST b|0.002
+M f:"regular"
+M g:"\nCollecting tasks from: tasks.py\n"
+C f|g|0.002
+M h:"stderr"
+M i:"2024-09-19 23:15:55,494 - RPA.core.certificates - INFO - Truststore injection done, using system certificate store to validate HTTPS.\n"
+C h|i|2.427
+M k:"MSELoss.__init__"
+M l:"torch.nn.modules.loss"
+M m:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/torch/nn/modules/loss.py"
+P j:k|l|m|e|534
+M n:"METHOD"
+SE j|n|10.328
+M o:"size_average"
+M p:"NoneType"
+M q:"None"
+EA o|p|q
+M r:"reduce"
+EA r|p|q
+M s:"reduction"
+M t:"str"
+M u:"'mean'"
+EA s|t|u
+M v:"PASS"
+EE n|v|10.328
+ET v|e|10.329
+M x:"spare_bin"
+M y:"tasks"
+M z:"/home/kush/Documents/PINN_PRJCT/tasks.py"
+M A:null
+P w:x|y|z|A|7
+ST w|10.329
+M B:"============================== "
+C f|B|10.329
+M C:"Running: "
+C f|C|10.329
+M D:"task_name"
+C D|x|10.329
+M E:" ==============================\n"
+C f|E|10.329
+SE w|n|10.33
+M G:"model_train"
+P F:G|y|z|e|11
+SE F|n|10.33
+M I:"Assistant.__init__"
+M J:"RPA.Assistant.library"
+M K:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/RPA/Assistant/library.py"
+P H:I|J|K|e|224
+SE H|n|10.33
+EE n|v|10.33
+P L:G|y|z|e|12
+M M:"assistant"
+M N:"Assistant"
+M O:"<RPA.Assistant.library.Assistant object at 0x7416e0049bd0>"
+AS L|M|N|O|10.33
+M Q:"Assistant.add_heading"
+P P:Q|J|K|e|285
+SE P|n|10.33
+M R:"heading"
+M S:"'Training Data Line'"
+EA R|t|S
+M T:"size"
+M U:"Size"
+M V:"<Size.Medium: 'medium'>"
+EA T|U|V
+EE n|v|10.331
+M X:"Assistant.add_text_input"
+P W:X|J|K|e|688
+SE W|n|10.331
+M Y:"name"
+M Z:"'xstart'"
+EA Y|t|Z
+M 0:"label"
+EA 0|p|q
+M 1:"placeholder"
+M 2:"'Enter Starting X Position'"
+EA 1|t|2
+M 3:"validation"
+EA 3|p|q
+M 4:"default"
+EA 4|p|q
+M 5:"required"
+M 6:"bool"
+M 7:"False"
+EA 5|6|7
+M 8:"minimum_rows"
+EA 8|p|q
+M 9:"maximum_rows"
+EA 9|p|q
+EE n|v|10.331
+SE W|n|10.331
+M aa:"'xend'"
+EA Y|t|aa
+EA 0|p|q
+M ab:"'Enter End X Position'"
+EA 1|t|ab
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.332
+SE W|n|10.332
+M ac:"'ystart'"
+EA Y|t|ac
+EA 0|p|q
+M ad:"'Enter Starting Y Position'"
+EA 1|t|ad
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.332
+SE W|n|10.332
+M ae:"'yend'"
+EA Y|t|ae
+EA 0|p|q
+M af:"'Enter End Y Position'"
+EA 1|t|af
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.333
+SE P|n|10.333
+M ag:"'Model Training'"
+EA R|t|ag
+EA T|U|V
+EE n|v|10.333
+SE W|n|10.333
+M ah:"'link1'"
+EA Y|t|ah
+EA 0|p|q
+M ai:"'Enter length of link 1'"
+EA 1|t|ai
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.333
+SE W|n|10.333
+M aj:"'link2'"
+EA Y|t|aj
+EA 0|p|q
+EA 1|t|ai
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.334
+SE W|n|10.334
+M ak:"'theta1'"
+EA Y|t|ak
+EA 0|p|q
+M al:"'Enter Angle Theta 1'"
+EA 1|t|al
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.334
+SE W|n|10.334
+M am:"'theta2'"
+EA Y|t|am
+EA 0|p|q
+M an:"'Enter Angle Theta 2'"
+EA 1|t|an
+EA 3|p|q
+EA 4|p|q
+EA 5|6|7
+EA 8|p|q
+EA 9|p|q
+EE n|v|10.334
+M ap:"Assistant.add_submit_buttons"
+P ao:ap|J|K|e|1272
+SE ao|n|10.334
+M aq:"buttons"
+M ar:"'Submit'"
+EA aq|t|ar
+EA 4|t|ar
+EE n|v|10.335
+M at:"Assistant.run_dialog"
+P as:at|J|K|e|1326
+SE as|n|10.335
+M au:"timeout"
+M av:"int"
+M aw:"180"
+EA au|av|aw
+M ax:"title"
+M ay:"'Assistant'"
+EA ax|t|ay
+M az:"height"
+M aA:"'AUTO'"
+EA az|t|aA
+M aB:"width"
+M aC:"480"
+EA aB|av|aC
+M aD:"on_top"
+EA aD|6|7
+M aE:"location"
+EA aE|p|q
+P aF:at|J|K|e|1389
+M aG:"DotDict"
+M aH:"{'xstart': None, 'xend': None, 'ystart': None, 'yend': None, 'link1': None, 'link2': None, 'theta1': None, 'theta2': None}"
+R aF|aG|aH|13.246
+EE n|v|13.246
+P aI:G|y|z|e|24
+M aJ:"result"
+AS aI|aJ|aG|aH|13.246
+M aK:"stdout"
+C aK|aH|13.247
+M aL:"\n"
+C aK|aL|13.247
+M aM:"TypeError: float() argument must be a string or a real number, not 'NoneType'"
+STB aM|13.247
+M aN:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_task.py"
+M aO:"run"
+M aP:"return self.method(**kwargs)"
+TBE aN|57|aO|aP
+M aQ:"self"
+M aR:"Task"
+M aS:"Task(spare_bin, status: NOT_RUN)"
+TBV aQ|aR|aS
+M aT:"kwargs"
+M aU:"dict"
+M aV:"{}"
+TBV aT|aU|aV
+M aW:"sig"
+M aX:"Signature"
+M aY:"<Signature ()>"
+TBV aW|aX|aY
+M aZ:"model_train()"
+TBE z|8|x|aZ
+M a0:"model = CreateModel(float(result.xstart),float(result.ystart),float(result.xend),float(result.yend),l1=int(result.link1),l2=int(result.link2),theta1=int(result.theta1),theta2=int(result.theta2))"
+TBE z|26|G|a0
+TBV M|N|O
+TBV aJ|aG|aH
+ETB 13.248
+M a1:"ERROR"
+EE n|a1|13.248
+EE n|a1|13.248
+C D|x|13.248
+M a2:" status: "
+C f|a2|13.248
+M a3:"error"
+M a4:"FAIL\n"
+C a3|a4|13.248
+M a5:"\nfloat() argument must be a string or a real number, not 'NoneType'\n"
+C a3|a5|13.248
+M a6:"====================== "
+C f|a6|13.249
+M a7:"Full Traceback (running "
+C f|a7|13.249
+C D|x|13.249
+M a8:")"
+C f|a8|13.249
+M a9:" ======================\n"
+C f|a9|13.249
+M ba:"traceback"
+M bb:"Traceback (most recent call last):\n  File \"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_commands.py\", line 453, in run\n    result = task.run(**kwargs)\n  File \"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_task.py\", line 57, in run\n    return self.method(**kwargs)\n  File \"/home/kush/Documents/PINN_PRJCT/tasks.py\", line 8, in spare_bin\n    model_train()\n  File \"/home/kush/Documents/PINN_PRJCT/tasks.py\", line 26, in model_train\n    model = CreateModel(float(result.xstart),float(result.ystart),float(result.xend),float(result.yend),l1=int(result.link1),l2=int(result.link2),theta1=int(result.theta1),theta2=int(result.theta2))\nTypeError: float() argument must be a string or a real number, not 'NoneType'\n\n"
+C ba|bb|13.249
+M bc:"================================================================================\n"
+C f|bc|13.249
+M bd:"FAIL"
+M be:"float() argument must be a string or a real number, not 'NoneType'"
+ET bd|be|13.249
+M bg:"Teardown tasks"
+M bh:"teardown"
+P bf:bg|bh|e|e|0
+ST bf|13.249
+M bi:"Process snapshot"
+SPS bi|13.249
+M bj:"System information:\nMemory: Total: 46.8 G, Available: 33.4 G, Used: 28.6 %\nCPUs: 16"
+P bk:e|e|e|e|0
+L I|bj|bk|0|13.414
+M bl:"Current Process: pt_main_thread (pid: 28059, status: running)\nCommand Line: /home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/bin/python3.10 -m robocorp.tasks run tasks.py\nStarted: 23:15:51\nParent pid: 28011\nResident Set Size: 423.2 M\nVirtual Memory Size: 3.9 G"
+L I|bl|bk|0|13.43
+M bm:"Thread-1 (__connection_loop)|Thread ID: 127637768898112 (daemon)"
+STD bm|13.43
+M bn:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/threading.py"
+M bo:"_bootstrap"
+M bp:"self._bootstrap_inner()"
+TBE bn|973|bo|bp
+M bq:"Thread"
+M br:"<Thread(Thread-1 (__connection_loop), started daemon 127637768898112)>"
+TBV aQ|bq|br
+M bs:"_bootstrap_inner"
+M bt:"self.run()"
+TBE bn|1016|bs|bt
+TBV aQ|bq|br
+M bu:"self._target(*self._args, **self._kwargs)"
+TBE bn|953|aO|bu
+TBV aQ|bq|br
+M bv:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/flet/sync_local_socket_connection.py"
+M bw:"__connection_loop"
+M bx:"message = self.__recv_msg(self.__connection)"
+TBE bv|146|bw|bx
+M by:"SyncLocalSocketConnection"
+M bz:"<flet.sync_local_socket_connection.SyncLocalSocketConnection object at 0x7416e004bee0>"
+TBV aQ|by|bz
+M bA:"client_address"
+M bB:"''"
+TBV bA|t|bB
+M bC:"message"
+TBV bC|p|q
+M bD:"__recv_msg"
+M bE:"raw_msglen = self.__recvall(sock, 4)"
+TBE bv|170|bD|bE
+TBV aQ|by|bz
+M bF:"sock"
+M bG:"socket"
+M bH:"<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/kush/.robocorp/temp/dca7612f5ecbc70b/jeYTNyQBFV>"
+TBV bF|bG|bH
+M bI:"raw_msglen"
+TBV bI|p|q
+M bJ:"__recvall"
+M bK:"packet = sock.recv(n - len(data))"
+TBE bv|183|bJ|bK
+TBV aQ|by|bz
+TBV bF|bG|bH
+M bL:"n"
+M bM:"4"
+TBV bL|av|bM
+M bN:"data"
+M bO:"bytearray"
+M bP:"bytearray(b'')"
+TBV bN|bO|bP
+M bQ:"packet"
+M bR:"bytes"
+M bS:"b''"
+TBV bQ|bR|bS
+ETD 13.431
+M bT:"OutputToPortThread|Thread ID: 127641589909056 (daemon)"
+STD bT|13.431
+TBE bn|973|bo|bp
+M bU:"<Thread(OutputToPortThread, started daemon 127641589909056)>"
+TBV aQ|bq|bU
+TBE bn|1016|bs|bt
+TBV aQ|bq|bU
+TBE bn|953|aO|bu
+TBV aQ|bq|bU
+M bV:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_log_output_setup.py"
+M bW:"write_in_thread"
+M bX:"msg = q.get()"
+TBE bV|73|bW|bX
+M bY:"msg"
+M bZ:"'ST bf|13.248\\n'"
+TBV bY|t|bZ
+M b0:"client_socket"
+M b1:"<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 32966), raddr=('127.0.0.1', 35805)>"
+TBV b0|bG|b1
+M b2:"log"
+M b3:"module"
+M b4:"<module 'robocorp.log' from '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/__init__.py'>"
+TBV b2|b3|b4
+M b5:"port_in_env"
+M b6:"'35805'"
+TBV b5|t|b6
+M b7:"q"
+M b8:"Queue"
+M b9:"<queue.Queue object at 0x7416e0048ca0>"
+TBV b7|b8|b9
+M ca:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/queue.py"
+M cb:"get"
+M cc:"self.not_empty.wait()"
+TBE ca|171|cb|cc
+TBV aQ|b8|b9
+M cd:"block"
+M ce:"True"
+TBV cd|6|ce
+TBV au|p|q
+M cf:"wait"
+M cg:"waiter.acquire()"
+TBE bn|320|cf|cg
+M ch:"Condition"
+M ci:"<Condition(<unlocked _thread.lock object at 0x7416e0b1e580>, 1)>"
+TBV aQ|ch|ci
+TBV au|p|q
+M cj:"waiter"
+M ck:"lock"
+M cl:"<locked _thread.lock object at 0x7416dff97040>"
+TBV cj|ck|cl
+M cm:"saved_state"
+TBV cm|p|q
+M cn:"gotit"
+TBV cn|6|7
+ETD 13.432
+M co:"MainThread|Thread ID: 127641633920832 (non daemon)"
+STD co|13.432
+M cp:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/__init__.py"
+M cq:"process_snapshot"
+M cr:"robo_logger.process_snapshot()"
+TBE cp|270|cq|cr
+M cs:"logger_instances"
+M ct:"{<robocorp.log._robo_logger._RoboLogger object at 0x7416e0e502b0>: 1, <robocorp.log._robo_logger._RoboLogger object at 0x7416e0048f10>: 1}"
+TBV cs|aU|ct
+M cu:"robo_logger"
+M cv:"_RoboLogger"
+M cw:"<robocorp.log._robo_logger._RoboLogger object at 0x7416e0e502b0>"
+TBV cu|cv|cw
+M cx:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_logger.py"
+M cy:"new_func"
+M cz:"return func(self, *args, **kwargs)"
+TBE cx|20|cy|cz
+TBV aQ|cv|cw
+M cA:"args"
+M cB:"tuple"
+M cC:"()"
+TBV cA|cB|cC
+TBV aT|aU|aV
+M cD:"func"
+M cE:"function"
+M cF:"<function _RoboLogger.process_snapshot at 0x7416e001c0d0>"
+TBV cD|cE|cF
+M cG:"return self._robot_output_impl.process_snapshot(hide_vars)"
+TBE cx|416|cq|cG
+TBV aQ|cv|cw
+M cH:"hide_vars"
+TBV cH|6|7
+M cI:"/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_output_impl.py"
+M cJ:"self._dump_threads(hide_vars)"
+TBE cI|748|cq|cJ
+TBV cH|6|7
+TBV b2|b3|b4
+M cK:"entry_id"
+M cL:"'ps_1'"
+TBV cK|t|cL
+M cM:"entry_type"
+M cN:"'process_snapshot'"
+TBV cM|t|cN
+M cO:"psutil"
+M cP:"<module 'psutil' from '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/psutil/__init__.py'>"
+TBV cO|b3|cP
+M cQ:"AccessDenied"
+M cR:"type"
+M cS:"<class 'psutil.AccessDenied'>"
+TBV cQ|cR|cS
+M cT:"NoSuchProcess"
+M cU:"<class 'psutil.NoSuchProcess'>"
+TBV cT|cR|cU
+M cV:"ZombieProcess"
+M cW:"<class 'psutil.ZombieProcess'>"
+TBV cV|cR|cW
+M cX:"curr_process"
+M cY:"Process"
+M cZ:"psutil.Process(pid=28059, name='pt_main_thread', status='running', started='23:15:51')"
+TBV cX|cY|cZ
+M c0:"log_info"
+M c1:"<function _RoboOutputImpl.process_snapshot.<locals>.log_info at 0x7416ae78f0a0>"
+TBV c0|cE|c1
+M c2:"memory_info"
+M c3:"'Total: 46.8 G, Available: 33.4 G, Used: 28.6 %'"
+TBV c2|t|c3
+M c4:"child_i"
+M c5:"0"
+TBV c4|av|c5
+M c6:"child"
+TBV c6|cY|cZ
+M c7:"'pt_main_thread'"
+TBV Y|t|c7
+M c8:"status"
+M c9:"'running'"
+TBV c8|t|c9
+M da:"create_time"
+M db:"'23:15:51'"
+TBV da|t|db
+M dc:"ppid"
+M dd:"'28011'"
+TBV dc|t|dd
+M de:"cmdline"
+M df:"'/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/bin/python3.10 -m robocorp.tasks run tasks.py'"
+TBV de|t|df
+M dg:"rss"
+M dh:"'423.2 M'"
+TBV dg|t|dh
+M di:"vms"
+M dj:"'3.9 G'"
+TBV di|t|dj
+M dk:"proc_memory_info"
+M dl:"pmem"
+M dm:"pmem(rss=443793408, vms=4167647232, shared=166703104, text=2121728, lib=0, data=1164271616, dirty=0)"
+TBV dk|dl|dm
+M dn:"'Current Process: pt_main_thread (pid: 28059, status: running)\\nCommand Line: /home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/bin/python3.10 -m robocorp.tasks run tasks.py\\nStarted: 23:15:51\\nParent pid: 28011\\nResident Set Size: 423.2 M\\nVirtual Memory Size: 3.9 G'"
+TBV bC|t|dn
+M do:"_RoboOutputImpl"
+M dp:"<robocorp.log._robo_output_impl._RoboOutputImpl object at 0x7416e0c8b1c0>"
+TBV aQ|do|dp
+M dq:"_dump_threads"
+M dr:"stack.append((f, f.f_lineno))"
+TBE cI|769|dq|dr
+TBV aQ|do|dp
+TBV cH|6|7
+M ds:"thread_id"
+M dt:"127641633920832"
+TBV ds|av|dt
+M du:"frame"
+M dv:"<frame at 0x7416ae757c40, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_output_impl.py', line 773, code _dump_threads>"
+TBV du|du|dv
+M dw:"thread"
+M dx:"_MainThread"
+M dy:"<_MainThread(MainThread, started 127641633920832)>"
+TBV dw|dx|dy
+M dz:"'MainThread|Thread ID: 127641633920832 (non daemon)'"
+TBV ax|t|dz
+M dA:"f"
+M dB:"<frame at 0x637cd2fe0d10, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/tasks/_commands.py', line 494, code run>"
+TBV dA|du|dB
+M dC:"stack"
+M dD:"list"
+M dE:"[(<frame at 0x7416ae727de0, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/__init__.py', line 270, code process_snapshot>, 270), (<frame at 0x7416e083aa40, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_logger.py', line 20, code new_func>, 20), (<frame at 0x74163ef1e8e0, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_logger.py', line 416, code process_snapshot>, 416), (<frame at 0x637cd8d30610, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_output_impl.py', line 748, code process_snapshot>, 748), (<frame at 0x7416ae757c40, file '/home/kush/.robocorp/holotree/356f8cf_b1f3c24_59f207d3/lib/python3.10/site-packages/robocorp/log/_robo_output_impl.py', line 773, code _dump_threads>, 769)]"
+TBV dC|dD|dE
+ETD 13.434
+EPS 13.434
+ET v|e|13.452
+ER a1|13.452

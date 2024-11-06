@@ -1,0 +1,128 @@
+{"when":1726766446,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726766446,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.059s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726766446,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 19210/19211)"}
+{"when":1726766446,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.001s Holotree blueprint is \"4c08c9f7504ea194\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726766446,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.366s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726766447,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.767s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726766447,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726766447,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726766447,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[19256:python3.10]"}
+{"when":1726766448,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726766448,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726766449,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726766724,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726766724,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.061s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726766724,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 20375/20377)"}
+{"when":1726766724,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.002s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726766724,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.333s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726766725,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.861s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726766725,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726766725,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726766725,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[20435:python3.10]"}
+{"when":1726766729,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[20435:pt_main_thread]"}
+{"when":1726766737,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[20435:pt_main_thread 20536:flet]"}
+{"when":1726766780,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[20435:pt_main_thread]"}
+{"when":1726766780,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726766780,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726766781,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726766817,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726766817,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.060s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726766817,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 21311/21312)"}
+{"when":1726766817,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.001s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726766818,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.346s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726766818,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.899s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726766818,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726766818,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726766819,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[21368:python3.10]"}
+{"when":1726766822,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[21368:pt_main_thread]"}
+{"when":1726766830,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[21368:pt_main_thread 21462:flet]"}
+{"when":1726766858,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[21368:pt_main_thread]"}
+{"when":1726766859,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726766859,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726766860,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726766958,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726766958,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.067s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726766958,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 22336/22337)"}
+{"when":1726766958,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.001s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726766959,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.353s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726766960,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.794s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726766960,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726766960,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726766960,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[22383:python3.10]"}
+{"when":1726766964,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[22383:pt_main_thread]"}
+{"when":1726766971,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[22383:pt_main_thread 22479:flet]"}
+{"when":1726766995,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[22383:pt_main_thread]"}
+{"when":1726766995,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726766995,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726766996,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726767202,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726767202,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.063s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726767202,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 23557/23558)"}
+{"when":1726767202,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.001s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726767202,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.383s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726767203,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.877s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726767203,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726767203,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726767203,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[23605:python3.10]"}
+{"when":1726767208,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[23605:pt_main_thread]"}
+{"when":1726767217,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[23605:pt_main_thread 23713:flet]"}
+{"when":1726767397,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726767397,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726767398,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726767411,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726767411,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.080s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726767411,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.002s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 25145/25146)"}
+{"when":1726767411,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.002s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726767411,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.379s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726767412,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.895s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726767412,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726767412,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726767412,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[25192:python3.10]"}
+{"when":1726767413,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726767413,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726767414,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726767426,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726767426,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.074s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726767426,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 25277/25278)"}
+{"when":1726767426,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.004s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726767426,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.378s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726767427,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.866s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726767427,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726767427,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726767427,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[25330:python3.10]"}
+{"when":1726767432,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[25330:pt_main_thread]"}
+{"when":1726767441,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[25330:pt_main_thread 25458:flet]"}
+{"when":1726767457,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[25330:pt_main_thread]"}
+{"when":1726767467,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726767467,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726767468,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726767690,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726767690,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.062s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726767690,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.001s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 26490/26491)"}
+{"when":1726767690,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.001s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726767690,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.360s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726767691,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.892s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726767691,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726767691,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726767691,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[26542:python3.10]"}
+{"when":1726767695,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[26542:pt_main_thread]"}
+{"when":1726767706,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[26542:pt_main_thread 26650:flet]"}
+{"when":1726767724,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[26542:pt_main_thread]"}
+{"when":1726767734,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726767734,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726767735,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1726767951,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/home/kush/Documents/PINN_PRJCT/robot.yaml","comment":"at task environment setup"}
+{"when":1726767951,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.068s Context: \"Kush Kumar Kushwaha\" \u003ckush@pop-os\u003e [linux_amd64/Distributor ID: Pop; Description: Pop!_OS 22.04 LTS; Release: 22.04; Codename: jammy]."}
+{"when":1726767951,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.002s Fresh [private mode] holotree environment 2272aaeb-73b1-208b-8fac-6d2393299d1d. (parent/pid: 28010/28011)"}
+{"when":1726767951,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.003s Holotree blueprint is \"016f1b623a1d195c\" [linux_amd64 with 15 workers on 16 CPUs from \"conda.yaml\"]."}
+{"when":1726767951,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.374s Restore space from library [with 15 workers on 16 CPUs; with compression: true]."}
+{"when":1726767952,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.803s Fresh holotree done [with 15 workers on 16 CPUs]."}
+{"when":1726767952,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1726767952,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1726767952,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[28059:python3.10]"}
+{"when":1726767956,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[28059:pt_main_thread]"}
+{"when":1726767963,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[28059:pt_main_thread 28151:flet]"}
+{"when":1726767966,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[28059:pt_main_thread]"}
+{"when":1726767966,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1726767966,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1726767968,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
